@@ -1,2 +1,3 @@
 # rails-bootstrap-haml-mysql
-example rail blog with bootstrap haml and mysql configuration
+example rails blog with bootstrap haml and mysql configuration
+by: Jon Clawson
